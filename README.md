@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/βασιλική κουτσή" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="βασιλική κουτσή" height="30" width="40" /></a>
+<a href="https://fb.com/Βασιλική Κουτσή" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="βασιλική κουτσή" height="30" width="40" /></a>
 <a href="https://instagram.com/vasiliki__kts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasiliki__kts" height="30" width="40" /></a>
 <a href="https://discord.gg/vasiliki0264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vasiliki0264" height="30" width="40" /></a>
 </p>

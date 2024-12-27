@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vasiliki</h1>
+<h1 align="center">Hi 👋, I'm Vasiliki Maria Koutsi</h1>
 <h3 align="center">A developer from Greece. I'm in the third year of my studies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasilikikts&label=Profile%20views&color=0e75b6&style=flat" alt="vasilikikts" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasilikikts" alt="vasilikikts" /></a> </p>
-
-- 🌱 I’m currently learning **Spring Boot JPA & Python**
+- 🌱 I’m currently learning **Spring Boot JPA & React**
 
 - 📫 How to reach me **koytsivas@gmail.com**
 
@@ -28,7 +24,4 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasilikikts&show_icons=true&locale=en&layout=compact" alt="vasilikikts" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasilikikts&show_icons=true&locale=en" alt="vasilikikts" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasilikikts&show_icons=true&locale=en&layout=compact" alt="vasilikikts" /></p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasiliki Maria Koutsi</h1>
-<h3 align="center">A developer from Greece. I'm in the third year of my studies.</h3>
+<h3 align="center">A developer from Greece. I'm in the fourth year of my studies.</h3>
 
-- 🌱 I’m currently learning **Spring Boot JPA, Python & Docker**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **koytsivas@gmail.com**
 

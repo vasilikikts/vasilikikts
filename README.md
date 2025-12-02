@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasiliki Maria Koutsi</h1>
-<h3 align="center">A developer from Greece. I'm in the fourth year of my studies. Highly interested in networking and in the management and development of databases.</h3>
+<h3 align="center">A developer from Greece. I'm in the fourth year of my studies. 
+   Highly interested in networking and in the management and development of databases.</h3>
 
 - 🌱 I’m currently learning **Docker**
 

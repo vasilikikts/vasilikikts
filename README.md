@@ -2,9 +2,9 @@
 <h3 align="center">A developer from Greece. I'm in the fourth year of my studies. 
    Highly interested in networking and in the management and development of databases.</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **LEO SATELLITES** 
 
-- 📫 How to reach me **koytsivas@gmail.com**
+- 📫 How to reach me **koytsivas@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

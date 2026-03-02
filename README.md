@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Greece. I'm in the fourth year of my studies. 
    Highly interested in networking and in the management and development of databases.</h3>
 
-- 🌱 I’m currently learning **LEO SATELLITES** 
+- 🌱 I’m currently learning **LEO SATELLITES,  Entity Resolution & Meta-Clustering** 
 
 - 📫 How to reach me **koytsivas@gmail.com** 
 
